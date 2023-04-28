@@ -1,2 +1,2 @@
-# 02-spring-boot-rest-crud-employee
-Spring Boot REST CRUD API with list of employees
+#  30-spring-boot-rest-crud-employee-with-spring-data-jpa
+Spring Boot REST CRUD API with list of employees with Spring data JPA
