@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15d7ef6-e5b3-4bd0-8976-6c32776f5600" name="Changes" comment="REST Controller - Delete method (DELETE) - delete single employee">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c15d7ef6-e5b3-4bd0-8976-6c32776f5600" name="Changes" comment="Creating EmployeeRepository interface. Refactoring the code to use it instead of employeeDAO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682664121759</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Creating EmployeeRepository interface. Refactoring the code to use it instead of employeeDAO">
+      <created>1682705046093</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682705046093</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +189,7 @@
     <MESSAGE value="REST Controller - Add method - add employee" />
     <MESSAGE value="REST Controller - Update method (PUT) - update single employee" />
     <MESSAGE value="REST Controller - Delete method (DELETE) - delete single employee" />
-    <option name="LAST_COMMIT_MESSAGE" value="REST Controller - Delete method (DELETE) - delete single employee" />
+    <MESSAGE value="Creating EmployeeRepository interface. Refactoring the code to use it instead of employeeDAO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating EmployeeRepository interface. Refactoring the code to use it instead of employeeDAO" />
   </component>
 </project>
